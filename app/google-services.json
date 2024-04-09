@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185954618474",
+    "project_id": "getcall-2d434",
+    "storage_bucket": "getcall-2d434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185954618474:android:c891bbd85614d152928e13",
+        "android_client_info": {
+          "package_name": "com.vikas.getcall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ1_9qNqS3WS-ONAuh4SvSfOqsmcskv3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
